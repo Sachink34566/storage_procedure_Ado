@@ -1,0 +1,10 @@
+C:\Users\SACHIN KUMAR\source\repos\StudentADO\Storage_proced\bin\Debug\Storage_proced.exe.config
+C:\Users\SACHIN KUMAR\source\repos\StudentADO\Storage_proced\bin\Debug\Storage_proced.exe
+C:\Users\SACHIN KUMAR\source\repos\StudentADO\Storage_proced\bin\Debug\Storage_proced.pdb
+C:\Users\SACHIN KUMAR\source\repos\StudentADO\Storage_proced\bin\Debug\System.Data.SqlClient.dll
+C:\Users\SACHIN KUMAR\source\repos\StudentADO\Storage_proced\bin\Debug\System.Data.SqlClient.xml
+C:\Users\SACHIN KUMAR\source\repos\StudentADO\Storage_proced\obj\Debug\Storage_proced.csproj.AssemblyReference.cache
+C:\Users\SACHIN KUMAR\source\repos\StudentADO\Storage_proced\obj\Debug\Storage_proced.csproj.CoreCompileInputs.cache
+C:\Users\SACHIN KUMAR\source\repos\StudentADO\Storage_proced\obj\Debug\Storage_.5200568D.Up2Date
+C:\Users\SACHIN KUMAR\source\repos\StudentADO\Storage_proced\obj\Debug\Storage_proced.exe
+C:\Users\SACHIN KUMAR\source\repos\StudentADO\Storage_proced\obj\Debug\Storage_proced.pdb
